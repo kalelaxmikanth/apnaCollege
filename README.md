@@ -1,3 +1,3 @@
 # apnaCollege
 github tutorial
-author - laxmikanth
+author - laxmikanth kale
